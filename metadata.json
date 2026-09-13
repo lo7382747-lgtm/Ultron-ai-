@@ -1,0 +1,6 @@
+{
+  "name": "ULTRON",
+  "description": "Futuristic real-time voice AI assistant powered by Live API audio communication",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
